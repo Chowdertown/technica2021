@@ -260,6 +260,12 @@ p {
 }
 
 .navbar .navbar-nav #search-bar .glyphicon {
+  color: #000;
+  border: 0;
+  padding:.1em;
+}
+
+.navbar .navbar-nav #search-bar .glyphicon: hover {
   color: #e75481;
   border: 0;
   padding:.1em;
